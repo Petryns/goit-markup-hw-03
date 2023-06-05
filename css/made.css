@@ -190,6 +190,10 @@ h6 {
 }
 /** --------------SECTION 3-------------- */
 
+img {
+  display: block;
+}
+
 .doing-title {
   font-weight: 700;
   font-size: 36px;
